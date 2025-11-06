@@ -23,7 +23,7 @@ Si prefieres ejecutar el script directamente desde el c√≥digo fuente, necesitar√
 1.  **Clona el repositorio:**
     ```bash
     git clone https://github.com/RafaBC-dev/ConversorPDF.git
-    cd tu-repositorio
+    cd ConversorPDF
     ```
 
 2.  **Crea y activa un entorno virtual:** (Recomendado)
