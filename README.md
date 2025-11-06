@@ -10,7 +10,7 @@ La aplicación detecta automáticamente el tipo de archivo y realiza la conversi
 
 La forma más sencilla de usar la aplicación es descargar el ejecutable (`.exe`) para Windows.
 
-1.  Ve a la sección de **[Releases](https://github.com/RafaBC-dev/ConversorPDF.git/Releases)** en este repositorio.
+1.  Ve a la sección de **[Releases](https://github.com/RafaBC-dev/ConversorPDF/releases)** en este repositorio.
 2.  Descarga el archivo `ConversorPDF.exe` de la última versión.
 3.  Guarda el archivo donde quieras (ej. en tu Escritorio) y haz doble clic para ejecutarlo. No requiere instalación.
 
